@@ -1174,42 +1174,72 @@
                             <a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is an essential part of Dormint and has several implications for different user groups. <a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is a utility token that has the following uses:
                         </p>
                     </div>
-                    <div class="tokenomics-inner">
-                        <div class="text-box">
-                            <p>User rewards:</p>
-                            <p><a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is used to reward users according to the Earning Cap and Mechanics
-                            </p>
-                            <p>Game mechanics: </p>
-                            <ul>
-                                <li>
-                                    <p><a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is used for PMP - the PMPs performed by a <a href="javascript:void(0);" class="tooltip">Pillow <span class="tooltiptext">An NFT that is required to use the features of Dormint</span></a>, the more -DORM it will
-                                        cost</p>
-
-                                </li>
-                                <li>
-                                    <p><a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is used for regular leveling-up of any <a href="javascript:void(0);" class="tooltip">Pillow <span class="tooltiptext">An NFT that is required to use the features of Dormint</span></a>, even more DORM is used if
-                                        a user wants to speed up this process</p>
-                                </li>
-                                <li>
-                                    <p><a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is used for buying any additional items (such as Boosters) on
-                                        Marketplace</p>
-                                </li>
-                                <li>
-                                    <p><a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is used to increase the initial Earning Cap for a user’s account</p>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="text-box">
-                            <p>Governance Vault:</p>
-                            <p><a href="javascript:void(0);" class="tooltip">DORM <span class="tooltiptext">DORM is a utility token of Dormint</span></a> is a governance token that allows holders to participate in Governance decisions
-                                of the platform, using a DAO structure. They can exercise voting rights on key
-                                elements such as feature prioritization on the platform Roadmap.</p>
-                            <p>Staking:</p>
-                            <p>This gives a passive income as a percentage of total revenues received by the
-                                platform. The percentage of platform revenue is distributed among staking parties
-                                according to the number of tokens staked.</p>
-                        </div>
-                    </div>
+                     <div class="section">
+            <div class="div-block">
+                <div class="text-block">DORM</div>
+            </div>
+            <div class="div-block-3 mobile">
+                <div class="text-block-2">In-app activities</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">DORM is used for buying any additional items (such as Boosters, etc) on Marketplace</li>
+                    <li class="list-item-2">DORM is used for PMP (more PMPs - more DORM spent)</li>
+                </ul>
+            </div>
+            <div class="div-block-4 mobile">
+                <div class="text-block-2">Governance</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">DORM is a governance token that allows holders to participate in Governance decisions</li>
+                </ul>
+            </div>
+            <div class="div-block desktop">
+                <div class="text-block">RATE</div>
+            </div>
+        </div>
+        <div class="section-2">
+            <div class="div-block-2">
+                <div class="text-block-2">User rewards:</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">RATE is used to reward users according to the Earning Cap and Mechanics</li>
+                    <li class="list-item-2">DORM is used to reward high-level Pillows holders</li>
+                </ul>
+            </div>
+        </div>
+        <div class="section-3">
+            <div class="div-block mobile">
+                <div class="text-block">RATE</div>
+            </div>
+            <div class="div-block-3 desktop">
+                <div class="text-block-2">In-app activities</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">DORM is used for buying any additional items (such as Boosters, etc) on Marketplace</li>
+                    <li class="list-item-2">DORM is used for PMP (more PMPs - more DORM spent)</li>
+                </ul>
+            </div>
+            <div class="div-block-3">
+                <div class="text-block-2">Game mechanics</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">RATE is used for Pillow leveling-up, and speeding up this process</li>
+                    <li class="list-item-2">RATE is used to increase the initial Earning Cap for a user’s account</li>
+                    <li class="list-item-2">RATE is used to remove cooldown for a Pillow Box opening after PMP</li>
+                    <li class="list-item-2">RATE is used for restoring Durability</li>
+                </ul>
+            </div>
+        </div>
+        <div class="section-4">
+            <div class="div-block-4 desktop">
+                <div class="text-block-2">Governance</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">DORM is a governance token that allows holders to participate in Governance decisions</li>
+                </ul>
+            </div>
+            <div class="div-block-4">
+                <div class="text-block-2">Additional mechanics</div>
+                <ul role="list" class="list">
+                    <li class="list-item-2">RATE is used for advanced sleep analytics subscription</li>
+                    <li class="list-item-2">RATE is used as a withdrawal fee</li>
+                </ul>
+            </div>
+        </div>
                     <div class="token-supply">
                         <h3>Token supply and distribution</h3>
                         <p>We made a simulation model for the development of Dormint economy (issuance and burning
